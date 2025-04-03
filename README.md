@@ -53,7 +53,3 @@ pm2 start index.js --name opendtu-bot
 pm2 save
 pm2 startup
 ```
-
-## 📜 Lizenz
-
-MIT
